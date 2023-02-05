@@ -72,7 +72,7 @@ As of December 2022, 1,445 cities in 51 countries joined and are interacting wit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&style=for-the-badge&logo=jQuery&logoColor=white)
 
-##Contributor
+## Contributor
 - [jxxngho](https://github.com/jxxngho)
 - [SIMOOLOOK](https://github.com/SIMOOLOOK)
 - [zbiniz](https://github.com/zbiniz)
