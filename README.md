@@ -77,4 +77,4 @@ As of December 2022, 1,445 cities in 51 countries joined and are interacting wit
 - [SIMOOLOOK](https://github.com/SIMOOLOOK)
 - [zbiniz](https://github.com/zbiniz)
 - [qpwery](https://github.com/qpwery)
-- [Su1226](https://github.com/)
+- [Su1226](https://github.com/Su1226)
