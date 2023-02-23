@@ -16,7 +16,7 @@ Our goal is to create an optimal location analysis program for the elderly playg
 저희 목표는 [‘국제보건기구 WHO 고령친화도시 도메인](https://extranet.who.int/agefriendlyworld/age-friendly-cities-framework/)’을 바탕으로 부산시 공공데이터를 활용해서 부산시 ‘시니어 파크’ 최적 입지 분석프로그램을 만드는 것입니다. -->
 
   
-## Objectives  
+## Pipeine 
 1. Select an area with a high housing ratio for the elderly
 2. Calculation of the score by candidate site within the selected area based on the slope and the location of public transportation facilities
 3. Select the top three candidate sites and conduct field surveys and questionnaires.
@@ -72,3 +72,8 @@ As of December 2022, 1,445 cities in 51 countries joined and are interacting wit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?&style=for-the-badge&logo=jQuery&logoColor=white)
 
+## Contributor
+- [jxxngho](https://github.com/jxxngho)
+- [SIMOOLOOK](https://github.com/SIMOOLOOK)
+- [zbiniz](https://github.com/zbiniz)
+- [qpwery](https://github.com/qpwery)
